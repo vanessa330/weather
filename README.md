@@ -1,7 +1,15 @@
-# Getting Started with Create React App
+# Weather App
 
-> https://tailwindcss.com/docs/guides/create-react-app
+- React
 
-> https://github.com/IconScout/react-unicons
+- Twilwind CSS
 
-> https://openweathermap.org/
+    - https://tailwindcss.com/docs/guides/create-react-app
+
+- API
+    - https://openweathermap.org/
+
+- React-toastify
+
+- React Icon
+    - https://github.com/IconScout/react-unicons
